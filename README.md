@@ -121,7 +121,9 @@ Example:
 Directives
 ----------
 
-Tabula also supports directives, which must start with an exclamation point. Directives modify how the table behaves. At the moment, only the Append directive is supported, and it will append text to all results from that table.
+Tabula also supports directives, which must start with an exclamation point. Directives modify how the table behaves. 
+
+**Append**: The text of the append directive will be appended to all results this table generates
 
 Example:
 
@@ -135,3 +137,13 @@ Example:
 	Star ruby
 	Star sapphire
 	Yellow sapphire
+
+**Import**: The import directive copies all entries from the specified table into this table. The entries will have the same weight in this table as they did in their source table. Note that the source table must be in the same table group.
+
+Example:
+
+	# Weapon
+	! Import simple melee weapons
+	! Import simple ranged weapons
+	! Import martial melee weapons
+	! Import martial ranged weapons

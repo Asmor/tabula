@@ -31,6 +31,7 @@ class Table(object):
 		self.name = ""
 		self.entries = []
 		self.appendText = ""
+		self.imports = []
 		for line in raw.split("\n"):
 			if line == "":
 				continue
@@ -48,6 +49,15 @@ class Table(object):
 				for i in range(0, weight):
 					self.entries.append(Entry(tokens))
 
+	def executeImports(self):
+		for tableName in self.imports:
+			if tableName in self.tableGroup.tables:
+				importTable = self.tableGroup.tables[tableName]
+				for importEntry in importTable.entries:
+					self.entries.append(importEntry)
+			else:
+				print "Unable to import {0}, not found in table group {1}".format(tableName, self.tableGroup.name)
+
 	def getRandom(self):
 		result = str(random.choice(self.entries))
 		if self.appendText != "":
@@ -57,11 +67,16 @@ class Table(object):
 	def setDirective(self, directive):
 		if directive.lower().startswith("append "):
 			self.appendText = directive[6:].strip()
+		elif directive.lower().startswith("import "):
+			self.imports.append(directive[6:].strip())
+		else:
+			print "Unsure how to parse directive: {0}".format(directive)
 
 	def setTableGroup(self, tableGroup):
 		self.tableGroup = tableGroup
 		for entry in self.entries:
 			entry.setTableGroup(self.tableGroup)
+		self.executeImports()
 
 class Entry(object):
 	def __init__(self, tokens):
@@ -212,7 +227,6 @@ if __name__ == '__main__':
 	# 	print table
 	# print tableGroups["treasure"].rollOnTable("CR 0 Hoard")
 	# print treasure.getTable("10 gp Gemstone").getRandom()
-	# print tokenize("1d6 [x 3d6 x] lal 5d3+4 knmdf kmfsd ")
 	# print tokenize("6d6*100 cp, 3d6*100 sp, 2d6*10 gp, and [-> CR 0 Treasure Hoard Items]")
 	pass
 

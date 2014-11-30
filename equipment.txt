@@ -1,0 +1,56 @@
+# Ammunition
+20 arrows
+50 blowgun needles
+20 bolts
+20 sling bullets
+
+# Weapon
+! Import simple melee weapons
+! Import simple ranged weapons
+! Import martial melee weapons
+! Import martial ranged weapons
+
+# Simple melee weapons
+Club
+Dagger
+Greatclub
+Handaxe
+Javelin
+Light hammer
+Mace
+Quarterstaff
+Sickle
+Spear
+
+# Simple ranged weapons
+Crossbow, light
+Dart
+Shortbow
+Sling
+
+# Martial melee weapons
+Battleaxe
+Flail
+Glaive
+Greataxe
+Greatsword
+Halberd
+Lance
+Longsword
+Maul
+Morningstar
+Pike
+Rapier
+Scimitar
+Shortsword
+Trident
+War pick
+Warhammer
+Whip
+
+# Martial ranged weapons
+Blowgun
+Hand crossbow
+Heavy crossbow
+Longbow
+Net
