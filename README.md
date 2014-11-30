@@ -117,3 +117,21 @@ Example:
 	Lord-a-Leaping
 	Piper Piping
 	Drummer Drumming
+
+Directives
+----------
+
+Tabula also supports directives, which must start with an exclamation point. Directives modify how the table behaves. At the moment, only the Append directive is supported, and it will append text to all results from that table.
+
+Example:
+
+	# 1000 gp gemstones
+	! Append (1,000 gp)
+	Black opal
+	Blue sapphire
+	Emerald
+	Fire opal
+	Opal
+	Star ruby
+	Star sapphire
+	Yellow sapphire
