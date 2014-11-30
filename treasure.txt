@@ -1,5 +1,13 @@
 # CR 0 Hoard
 6d6x100 cp, 3d6x100 sp, 2d6x10 gp and [-> CR 0 Hoard Items]
+# CR 1 Hoard
+[-> CR 0 Hoard]
+# CR 2 Hoard
+[-> CR 0 Hoard]
+# CR 3 Hoard
+[-> CR 0 Hoard]
+# CR 4 Hoard
+[-> CR 0 Hoard]
 
 # CR 0 Hoard Items
 6 nothing else
@@ -22,6 +30,17 @@
 
 # CR 5 Hoard
 2d6x100 cp, 2d6x1000 sp, 6d6x100 gp, 3d6x10 pp and [-> CR 5 Hoard Items]
+
+# CR 6 Hoard
+[-> CR 5 Hoard]
+# CR 7 Hoard
+[-> CR 5 Hoard]
+# CR 8 Hoard
+[-> CR 5 Hoard]
+# CR 9 Hoard
+[-> CR 5 Hoard]
+# CR 10 Hoard
+[-> CR 5 Hoard]
 
 # CR 5 Hoard Items
 4 nothing else
@@ -56,6 +75,17 @@
 
 # CR 11 Hoard
 4d6x1000 gp, 5d6x100 pp, and [-> CR 11 Hoard Items]
+
+# CR 12 Hoard
+[-> CR 11 Hoard]
+# CR 13 Hoard
+[-> CR 11 Hoard]
+# CR 14 Hoard
+[-> CR 11 Hoard]
+# CR 15 Hoard
+[-> CR 11 Hoard]
+# CR 16 Hoard
+[-> CR 11 Hoard]
 
 # CR 11 Hoard Items
 2 nothing else
@@ -94,6 +124,33 @@
 
 # CR 17 Hoard
 12d6x1000 gp, 8d6x1000 pp, and [-> CR 17 Hoard Items]
+
+# CR 18 Hoard
+[-> CR 17 Hoard]
+# CR 19 Hoard
+[-> CR 17 Hoard]
+# CR 20 Hoard
+[-> CR 17 Hoard]
+# CR 21 Hoard
+[-> CR 17 Hoard]
+# CR 22 Hoard
+[-> CR 17 Hoard]
+# CR 23 Hoard
+[-> CR 17 Hoard]
+# CR 24 Hoard
+[-> CR 17 Hoard]
+# CR 25 Hoard
+[-> CR 17 Hoard]
+# CR 26 Hoard
+[-> CR 17 Hoard]
+# CR 27 Hoard
+[-> CR 17 Hoard]
+# CR 28 Hoard
+[-> CR 17 Hoard]
+# CR 29 Hoard
+[-> CR 17 Hoard]
+# CR 30 Hoard
+[-> CR 17 Hoard]
 
 # CR 17 Hoard Items
 2 nothing else
