@@ -54,3 +54,36 @@ Hand crossbow
 Heavy crossbow
 Longbow
 Net
+
+# Axes
+Handaxe
+Battleaxe
+Greataxe
+
+# Swords
+Greatsword
+Longsword
+Shortsword
+
+# Armor
+! import light armor
+! import medium armor
+! import heavy armor
+
+# light armor
+Padded
+Leather
+Studded leather
+
+# medium armor
+Hide
+Chain shirt
+Scale mail
+Breastplate
+Half plate
+
+# Heavy armor
+Ring mail
+Chain mail
+Splint
+Plate

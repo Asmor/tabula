@@ -1,0 +1,78 @@
+# alignments
+Chaotic evil
+Chaotic neutral
+Chaotic good
+Neutral evil
+Neutral
+Neutral good
+Lawful evil
+Lawful neutral
+Lawful good
+
+# energy types
+Acid
+Cold
+Fire
+Force
+Lightning
+Necrotic
+Poison
+Psychic
+Radiant
+Thunder
+
+# planes
+Astral plane
+Ethereal plane
+Feywild
+Shadowfell
+! import outer planes
+! import inner planes
+
+# inner planes
+Plane of air
+Plane of earth
+Plane of fire
+Plane of water
+
+# outer planes
+Mount Celestia
+Bytopia
+Elysium
+The Beastlands
+Arborea
+Ysgard
+Limbo
+Pandemonium
+The Abyss
+Carceri
+Hades
+Gehenna
+The Nine Hells
+Acheron
+Mechanus
+Arcadia
+
+# dragon colors
+! import chromatic dragon colors
+! import metallic dragon colors
+
+# chromatic dragon colors
+Black
+Blue
+Green
+Red
+White
+
+# metallic dragon colors
+Brass
+Bronze
+Copper
+Gold
+Silver
+
+# elements
+Air
+Earth
+Fire
+Water

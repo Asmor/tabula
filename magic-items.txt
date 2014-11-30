@@ -11,7 +11,7 @@ Driftglobe
 # B
 15 Potion of greater healing
 7 Potion of fire breath
-7 Potion of resistance
+7 Potion of resistance ([misc -> energy types])
 5 +1 Ammunition ([equipment -> ammunition])
 5 Potion of animal friendship
 5 Potion of hill giant strength
@@ -25,7 +25,7 @@ Driftglobe
 2 Dust of disappearance
 2 Dust of dryness
 2 Dust of sneezing and choking
-2 Elemental gem
+2 Elemental gem ([-> elemental gems])
 2 Philter of love
 Alchemy jug
 Cap of water breathing
@@ -35,11 +35,11 @@ Goggles of night
 Helm of comprehending languages
 Immovable rod
 Lantern of revealing
-Mariner's armor
-Mithral armor
+Mariner's armor ([equipment -> armor])
+Mithral armor ([-> Mithral armor types])
 Potion of poison
 Ring of swimming
-Robe of useful items
+Robe of useful items (Extra patches: [List 4d4 -> Useful items])
 Rope of climbing
 Saddle of the cavalier
 Wand of magic detection
@@ -61,9 +61,9 @@ Wand of secrets
 3 Elixir of health
 3 Oil of etherealness
 3 Potion of fire giant strength
-3 Quaal's feather token
-3 Scroll of protection
-2 Bag of beans
+3 Quaal's feather token ([-> Feather token])
+3 Scroll of protection ([-> Protection targets])
+2 Bag of beans with 3d4 beans
 2 Bead of force
 Chime of opening
 Decanter of endless water
@@ -122,12 +122,12 @@ Portable hole
 2 Slippers of spider climbing
 2 Staff of the adder
 2 Staff of the python
-2 Sword of vengeance
+2 Sword of vengeance ([equipment -> swords])
 2 Trident of fish command
 2 Wand of magic missiles
 2 +1 Wand of the war mage
 2 Wand of web
-2 Weapon of warning
+2 Weapon of warning ([equipment -> weapon])
 Adamantine armor (chain mail)
 Adamantine armor (chain shirt)
 Adamantine armor (scale mail)
@@ -136,7 +136,7 @@ Bag of tricks (rust)
 Bag of tricks (tan)
 Boots of the winterlands
 Ciorclet of blasting
-Deck of illusions
+Deck of illusions missing 1d20-1 cards
 Eversmoking bottle
 Eyes of charming
 Eyes of the eagle
@@ -166,16 +166,16 @@ Winged boots
 # G
 11 +2 Weapon ([equipment -> weapon])
 4 +1 Armor ([-> G armor type])
-4 Armor of resistance ([-> G armor type])
+4 Armor of resistance: [misc -> energy types] ([-> G armor type])
 3 Figurine of wondrous power ([-> G figurine of wondrous power])
 Adamantine armor (breastplate)
 Adamantine armor (splint)
 Amulet of health
-Armor of invulnerability
+Armor of vulnerability
 Arrow-catching shield
 Belt of sdwarvenkind
 Belt of hill giant strength
-Berserker axe
+Berserker axe ([equipment -> axes])
 Boots of levitation
 Boots of speed
 Bowl of commanding water elementals
@@ -189,11 +189,11 @@ Cube of force
 Daern's instant fortress
 Dagger of venom
 Dimensional shackles
-Dragon slayer
+Dragon slayer ([equipment -> swords])
 Elven chain
-Flame tongue
+Flame tongue ([equipment -> swords])
 Gem of seeing
-Giant slayer
+Giant slayer ([-> giant slayer types])
 Glamoured studded leather
 Helm of teleportation
 Horn of blasting
@@ -209,15 +209,15 @@ Mace of disruption
 Mace of smiting
 Mace of terror
 Mantle of spell resistance
-Necklace of prayer beads
+Necklace of prayer beads ([List 1d4+2 -> Prayer beads])
 Periapt of proof against poison
 Ring of animal influence
 Ring of evasion
 Ring of feather falling
 Ring of free action
 Ring of protection
-Ring of resistance
-Ring of spell storing
+Ring of resistance ([-> Ring of resistance gems])
+Ring of spell storing ([-> Stored spell])
 Ring of the ram
 Ring of X-ray vision
 Robe of eyes
@@ -232,10 +232,10 @@ Staff of woodlands
 Staff of withering
 Stone of controlling earth elementals
 Sun blade
-Sword of life stealing
-Sword of wounding
+Sword of life stealing ([equipment -> swords])
+Sword of wounding ([equipment -> swords])
 Tentacle rod
-Vicious weapon
+Vicious weapon ([equipment -> weapon])
 Wand of binding
 Wand of enemy detection
 Wand of fear
@@ -268,7 +268,7 @@ brass
 # H
 10 +3 Weapon ([equipment -> weapon])
 2 Amulet of the planes
-2 Carpet of flying
+2 Carpet of flying ([-> flying carpet sizes])
 2 Crystal ball (very rare version)
 2 Ring of regeneration
 2 Ring of shooting stars
@@ -286,7 +286,7 @@ brass
 2 Staff of power
 2 Staff of striking
 2 Staff of thunder and lightning
-2 Sword of sharpness
+2 Sword of sharpness ([-> Slashing swords])
 2 Wand of polymorph
 2 +3 Wand of the war mage
 Adamantine armor (half plate)
@@ -294,18 +294,18 @@ Adamantine armor (plate)
 Animated shield
 2 Belt of [-> H belts] strength
 3 +1 Armor ([-> H armor type])
-3 Armor of resistance ([-> H armor type])
+3 Armor of resistance: [misc -> energy types] ([-> H armor type])
 4 +2 Armor ([-> H armor type])
-Candle of invocation
+Candle of invocation ([misc -> alignments])
 Cloak of arachnida
 Dancing sword
 Demon armor
-Dragon scale mail
+Dragon scale mail ([misc -> dragon colors])
 Dwarven plate
 Dwarven thrower
 Efreeti bottle
 Figurine of wondrous power (obsidian steed)
-Frost brand
+Frost brand ([equipment -> swords])
 Helm of brilliance
 Horn of Valhalla (bronze)
 Instrument of the bards (Anstruth harp)
@@ -318,10 +318,10 @@ Ioun stone (leadership)
 Ioun stone (strength)
 Manual of bodily health
 Manual of gainful exercise
-Manual of golems
+Manual of golems ([-> golem types])
 Manual of quickness of action
 Mirror of life trapping
-Nine lives stealer
+Nine lives stealer ([equipment -> swords])
 Oathbow
 Spellguard shield
 Tome of clear thought
@@ -339,25 +339,25 @@ frost giant
 stone giant
 
 # I
-5 Defender
+5 Defender ([equipment -> swords])
 5 Hammer of thunderbolts
-5 Luck blade
-5 Sword of answering
-3 Holy avenger
+5 Luck blade ([equipment -> swords])
+5 Sword of answering ([-> Answerer types])
+3 Holy avenger ([equipment -> swords])
 3 Ring of djinni summoning
 3 Ring of invisibility
 3 Ring of spell turning
 3 Ring of lordly might
 3 Staff of the magi
-3 Vorpal sword
+3 Vorpal sword ([-> Slashing swords])
 2 Belt of cloud giant strength
 4 +1 Armor ([-> I armor type])
-2 Armor of resistance ([-> I armor type])
+2 Armor of resistance: [misc -> energy types] ([-> I armor type])
 6 +2 Armor ([-> H armor type])
 8 +3 Armor ([-> G armor type])
 2 Cloak of invisibility
 2 Crystal Ball of [-> I ball type]
-2 Iron flask
+2 Iron flask ([-> iron flask contents])
 2 Robe of the archmagi
 2 Rod of resurrection
 2 Scarab of protection
@@ -366,8 +366,8 @@ stone giant
 Apparatus of Kwalish
 Armor of invulnerability
 Belt of storm giant strength
-Cubic gate
-Deck of many things
+Cubic gate (Material plane, [list 5 misc -> planes])
+Deck of many things ([-> Deck of many things sizes])
 Efreeti chain
 Horn of Valhalla
 Instrument of the bards (Ollamh harp)
@@ -399,3 +399,153 @@ plate
 mind reading
 telepathy
 true seeing
+
+# flying carpet sizes
+4 3 ft x 5 ft
+7 4 ft x 6 ft
+5 5 ft x 7 ft
+4 6 ft x 9 ft
+
+# Deck of many things sizes
+3 13 cards
+1 22 cards
+
+# elemental gems
+Blue sapphire
+Yellow diamond
+Red corundum
+Emerald
+
+# giant slayer types
+[equipment -> axes]
+[equipment -> swords]
+
+# iron flask contents
+50 empty
+50 contains [-> iron flask prisoners]
+
+# iron flask prisoners
+Arcanoloth
+Cambion
+2 Dao
+3 [creatures -> demon type 1]
+3 [creatures -> demon type 2]
+2 [creatures -> demon type 3]
+2 [creatures -> demon type 4]
+1 [creatures -> demon type 5]
+1 [creatures -> demon type 6]
+Deva
+2 [creatures -> greater devil]
+3 [creatures -> lesser devil]
+2 Djinni
+2 Efreeti
+2 [misc -> elements] Elemental
+Githyanki knight
+Githzerai zerth
+2 Invisible stalker
+2 Marid
+2 Mezzoloth
+2 Night hag
+2 Nycaloth
+Planetar
+Salamander
+2 [creatures -> slaadi]
+Solar
+Succubus
+Incubus
+Ultroloth
+Xorn
+
+# golem types
+4 Clay
+12 Flesh
+Iron
+2 Stone
+
+# Mithral armor types
+Chain shirt
+Scale mail
+Breastplate
+Half plate
+Ring mail
+Chain mail
+Splint
+Plate
+
+# Prayer beads
+6 Blessing
+6 Curing
+4 Favor
+2 Smiting
+1 Summons
+1 Wind Walking
+
+# Feather token
+4 Anchor
+3 Bird
+3 Fan
+3 Swan boat
+5 Tree
+2 Whip
+
+# Ring of resistance gems
+Pearl
+Tourmaline
+Garnet
+Sapphire
+Citrine
+Jet
+Amethyst
+Jade
+Topaz
+Spinel
+
+# Stored spell
+No stored spell
+[spells -> 1]
+[spells -> 2]
+[spells -> 3]
+[spells -> 4]
+[spells -> 5]
+
+# Useful items
+8 Bag of 100 gp
+7 Silver coffer
+7 Iron door
+8 10x [gems -> 100]
+14 Wooden ladder
+7 Riding horse
+8 Pit
+9 4 potions of healing
+7 Rowboat
+5 Spell scroll ([spells -> 1])
+2 Spell scroll ([spells -> 2])
+1 Spell scroll ([spells -> 3])
+7 2 mastiffs
+6 Window
+4 Portable ram
+
+# Protection targets
+2 Aberrations
+2 Beasts
+2 Celestials
+2 Elementals
+2 Fey
+5 Fiends
+1 Plants
+4 Undead
+
+# Answerer types
+Answerer
+Back Talker
+Concluder
+Last Quip
+Rebutter
+Replier
+Retorter
+Scather
+Squelcher
+
+# Slashing swords
+Greatsword
+Longsword

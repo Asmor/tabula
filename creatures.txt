@@ -1,0 +1,43 @@
+# demon type 1
+Barlgura
+Shadow demon
+Vrock
+
+# demon type 2
+Chasme
+Hezrou
+
+# demon type 3
+Glabrezu
+Yochlol
+
+# demon type 4
+Nalfeshnee
+
+# demon type 5
+Marilith
+
+# demon type 6
+Balor
+Goristro
+
+# greater devil
+Horned devil
+Erinyes
+Ice devil
+Pit fiend
+
+# lesser devil
+Imp
+Spined devil
+Bearded devil
+Barbed devil
+Chain devil
+Bone devil
+
+# slaadi
+Red slaad
+Blue slaad
+Green slaad
+Gray slaad
+Death slaad
