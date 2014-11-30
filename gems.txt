@@ -1,0 +1,68 @@
+# 10
+! Append (10 gp)
+Azurite
+Banded agate
+Blue quartz
+Eye agate
+Hematite
+Lapis lazuli
+Malachite
+Moss agate
+Obsidian
+Rhodochrosite
+
+# 50
+! Append (50 gp)
+Bloodstone
+Carnelian
+Chalcedony
+Chrysoprase
+Citrine
+Jasper
+Moonstone
+Onyx
+Quartz
+Sardonyx
+Star rose quartz
+Zircon
+
+# 100
+! Append (100 gp)
+Amber
+Amethyst
+Chrsoberyl
+Coral
+Garnet
+Jade
+Jet
+Pearl
+Spinel
+Tourmaline
+
+# 500
+! Append (500 gp)
+Alexandrite
+Aquamarine
+Black pearl
+Blue spinel
+Peridot
+Topaz
+
+# 1000
+! Append (1,000 gp)
+Black opal
+Blue sapphire
+Emerald
+Fire opal
+Opal
+Star ruby
+Star sapphire
+Yellow sapphire
+
+# 5000
+! Append (5,000 gp)
+Black sapphire
+Diamond
+Jacinth
+Ruby
+

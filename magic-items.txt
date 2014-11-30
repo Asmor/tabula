@@ -1,0 +1,402 @@
+# A
+50 Potion of healing
+10 Spell scroll ([spells -> 0])
+10 Potion of climbing
+20 Spell scroll ([spells -> 1])
+4 Spell scroll ([spells -> 2])
+4 Potion of greater healing
+Bag of holding
+Driftglobe
+
+# B
+15 Potion of greater healing
+7 Potion of fire breath
+7 Potion of resistance
+5 Ammunition, +1
+5 Potion of animal friendship
+5 Potion of hill giant strength
+5 Potion of growth
+5 Potion of water breathing
+5 Spell scroll ([spells -> 2])
+5 Spell scroll ([spells -> 3])
+3 Bag of holding
+3 Keoghtom's ointment
+3 Oil of slipperiness
+2 Dust of disappearance
+2 Dust of dryness
+2 Dust of sneezing and choking
+2 Elemental gem
+2 Philter of love
+Alchemy jug
+Cap of water breathing
+Cloak of the manta ray
+Driftglobe
+Goggles of night
+Helm of comprehending languages
+Immovable rod
+Lantern of revealing
+Mariner's armor
+Mithral armor
+Potion of poison
+Ring of swimming
+Robe of useful items
+Rope of climbing
+Saddle of the cavalier
+Wand of magic detection
+Wand of secrets
+
+# C
+15 Potion of superior healing
+7 Spell scroll ([spells -> 4])
+5 Ammunition, +2
+5 Potion of clairvoyance
+5 Potion of diminuition
+5 Potion of gaseous form
+5 Potion of frost giant strength
+5 Potion of stone giant strength
+5 Potion of heroism
+5 Potion of invulnerability
+5 Potion of mind reading
+5 Spell scroll ([spells -> 5])
+3 Elixir of health
+3 Oil of etherealness
+3 Potion of fire giant strength
+3 Quaal's feather token
+3 Scroll of protection
+2 Bag of beans
+2 Bead of force
+Chime of opening
+Decanter of endless water
+Eyes of minute seeing
+Folding boat
+Heward's Handy Haversack
+Horseshoes of speed
+Necklace of fireballs
+Periapt of health
+Sending stones
+
+# D
+20 Potion of supreme healing
+10 Potion of invisibility
+10 Potion of speed
+10 Spell scroll ([spells -> 6])
+7 Spell scroll ([spells -> 7])
+5 Ammunition, +3
+5 Oil of sharpness
+5 Potion of flying
+5 Potion of cloud giant strength
+5 Potion of longevity
+5 Potion of vitality
+5 Spell scroll ([spells -> 8])
+3 Horseshoes of a zephyr
+3 Nolzur's marvelous pigments
+Bag of devouring
+Portable hole
+
+# E
+30 Spell scroll ([spells -> 8])
+25 Potion of storm giant strength
+15 Potion of supreme healing
+15 Spell scroll ([spells -> 9])
+8 Universal solvent
+5 Arrow of slaying
+2 Sovereign glue
+
+# F
+15 Weapon, +1
+3 Shield, +1
+3 Sentinel shield
+2 Amulet of proof against detection and location
+2 Boots of elvenkind
+2 Boots of striding and springing
+2 Bracers of archery
+2 Brooch of shielding
+2 Broom of flying
+2 Cloak of elvenkind
+2 Cloak of protection
+2 Gauntlets of ogre power
+2 Hat of disguise
+2 Javelin of lightning
+2 Pearl of power
+2 Rod of the pact keeper, +1
+2 Slippers of spider climbing
+2 Staff of the adder
+2 Staff of the python
+2 Sword of vengeance
+2 Trident of fish command
+2 Wand of magic missiles
+2 Wand of the war mage, +1
+2 Wand of web
+2 Weapon of warning
+Adamantine armor (chain mail)
+Adamantine armor (chain shirt)
+Adamantine armor (scale mail)
+Bag of tricks (gray)
+Bag of tricks (rust)
+Bag of tricks (tan)
+Boots of the winterlands
+Ciorclet of blasting
+Deck of illusions
+Eversmoking bottle
+Eyes of charming
+Eyes of the eagle
+Figurine of wondrous power (silver raven)
+Gem of brightness
+Gloves of missile snaring
+Gloves of swimming and climbing
+Gloves of thievery
+Headband of intellect
+Helm of telepathy
+Instrument of the bards (Doss lute)
+Instrument of the bards (Fochluchan bandore)
+Instrument of the bards (Mac-Fuimidh cittern)
+Medallion of thoughts
+Necklace of adaptation
+Periapt of wound closure
+Pipes of haunting
+Pipes of the sewers
+Ring of jumping
+Ring of mind shielding
+Ring of warmth
+Ring of water walking
+Quiver of Ehlonna
+Wind fan
+Winged boots
+
+# G
+11 Weapon, +2
+4 Armor, +1 ([-> G armor type])
+4 Armor of resistance ([-> G armor type])
+3 Figurine of wondrous power ([-> G figurine of wondrous power])
+Adamantine armor (breastplate)
+Adamantine armor (splint)
+Amulet of health
+Armor of invulnerability
+Arrow-catching shield
+Belt of sdwarvenkind
+Belt of hill giant strength
+Berserker axe
+Boots of levitation
+Boots of speed
+Bowl of commanding water elementals
+Bracers of defense
+Brazier of commanding fire elementals
+Cape of the mountebank
+Censer of controlling air elementals
+Cloak of displacement
+Cloak of the bat
+Cube of force
+Daern's instant fortress
+Dagger of venom
+Dimensional shackles
+Dragon slayer
+Elven chain
+Flame tongue
+Gem of seeing
+Giant slayer
+Glamoured studded leather
+Helm of teleportation
+Horn of blasting
+Horn of Valhalla ([-> G horn type])
+Instrument of the bards (Canaith mandolin)
+Instrument of the bards (Cli lyre)
+Ioun stone (awareness)
+Ioun stone (protection)
+Ioun stone (reserve)
+Ioun stone (sustenance)
+Iron bands of Bilarro
+Mace of disruption
+Mace of smiting
+Mace of terror
+Mantle of spell resistance
+Necklace of prayer beads
+Periapt of proof against poison
+Ring of animal influence
+Ring of evasion
+Ring of feather falling
+Ring of free action
+Ring of protection
+Ring of resistance
+Ring of spell storing
+Ring of the ram
+Ring of X-ray vision
+Robe of eyes
+Rod of rulership
+Rod of the pact keeper, +2
+Rope of entanglement
+Shield, +2
+Shield of missile attraction
+Staff of charming
+Staff of healing
+Staff of swarming insects
+Staff of woodlands
+Staff of withering
+Stone of controlling earth elementals
+Sun blade
+Sword of life stealing
+Sword of wounding
+Tentacle rod
+Vicious weapon
+Wand of binding
+Wand of enemy detection
+Wand of fear
+Wand of fireballs
+Wand of lightning bolts
+Wand of paralysis
+Wand of the war mage, +2
+Wand of wonder
+Wings of flying
+
+# G armor type
+chain mail
+chain shirt
+leather
+scale mail
+
+# G figurine of wondrous power
+Bronze griffon
+Ebony fly
+Golden lions
+Ivory goats
+Marble elephant
+2 Onyx dog
+Serpentine owl
+
+# G horn type
+silver
+brass
+
+# H
+10 Weapon, +3
+2 Amulet of the planes
+2 Carpet of flying
+2 Crystal ball (very rare version)
+2 Ring of regeneration
+2 Ring of shooting stars
+2 Ring of telekinesis
+2 Robe of scintillating colors
+2 Robe of stars
+2 Rod of absorption
+2 Rod of alertness
+2 Rod of security
+2 Rod of the pact keeper, +3
+2 Scimitar of speed
+2 Shield, +3
+2 Staff of fire
+2 Staff of frost
+2 Staff of power
+2 Staff of striking
+2 Staff of thunder and lightning
+2 Sword of sharpness
+2 Wand of polymorph
+2 Wand of the war mage, +3
+Adamantine armor (half plate)
+Adamantine armor (plate)
+Animated shield
+2 Belt of [-> H belts] strength
+3 Armor, +1 [-> H armor type]
+3 Armor of resistance ([-> H armor type])
+4 Armor, +2 [-> H armor type]
+Candle of invocation
+Cloak of arachnida
+Dancing sword
+Demon armor
+Dragon scale mail
+Dwarven plate
+Dwarven thrower
+Efreeti bottle
+Figurine of wondrous power (obsidian steed)
+Frost brand
+Helm of brilliance
+Horn of Valhalla (bronze)
+Instrument of the bards (Anstruth harp)
+Ioun stone (absorption)
+Ioun stone (agility)
+Ioun stone (fortitude)
+Ioun stone (insight)
+Ioun stone (intellect)
+Ioun stone (leadership)
+Ioun stone (strength)
+Manual of bodily health
+Manual of gainful exercise
+Manual of golems
+Manual of quickness of action
+Mirror of life trapping
+Nine lives stealer
+Oathbow
+Spellguard shield
+Tome of clear thought
+Tome of leadership and influence
+Tome of understanding
+
+# H armor type
+breastplate
+splint
+studded leather
+
+# H belts
+2 fire giant
+frost giant
+stone giant
+
+# I
+5 Defender
+5 Hammer of thunderbolts
+5 Luck blade
+5 Sword of answering
+3 Holy avenger
+3 Ring of djinni summoning
+3 Ring of invisibility
+3 Ring of spell turning
+3 Ring of lordly might
+3 Staff of the magi
+3 Vorpal sword
+2 Belt of cloud giant strength
+4 Armor, +1 [-> I armor type]
+2 Armor of resistance ([-> I armor type])
+6 Armor, +2 [-> H armor type]
+8 Armor, +3 [-> G armor type]
+2 Cloak of invisibility
+2 Crystal Ball of [-> I ball type]
+2 Iron flask
+2 Robe of the archmagi
+2 Rod of resurrection
+2 Scarab of protection
+2 Well of many worlds
+[-> I awesome armor]
+Apparatus of Kwalish
+Armor of invulnerability
+Belt of storm giant strength
+Cubic gate
+Deck of many things
+Efreeti chain
+Horn of Valhalla
+Instrument of the bards (Ollamh harp)
+Ioun stone (greater absorption)
+Ioun stone (mastery)
+Ioun stone (regeneration)
+Plate armor of etherealness
+Ring of air elemental command
+Ring of earth elemental command
+Ring of fire elemental command
+Ring of three wishes
+Ring of water elemental command
+Sphere of annihalation
+Talisman of pure good
+Talisman of the sphere
+Talisman of ultimate evil
+Tome of the stilled tongue
+
+# I armor type
+half plate
+plate
+
+# I awesome armor
+2 Armor, +2 [-> I armor type]
+3 Armor, +3 [-> H armor type]
+1 Armor, +3 [-> I armor type]
+
+# I ball type
+mind reading
+telepathy
+true seeing
