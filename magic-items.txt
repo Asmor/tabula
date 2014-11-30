@@ -12,7 +12,7 @@ Driftglobe
 15 Potion of greater healing
 7 Potion of fire breath
 7 Potion of resistance
-5 Ammunition, +1
+5 +1 Ammunition ([equipment -> ammunition])
 5 Potion of animal friendship
 5 Potion of hill giant strength
 5 Potion of growth
@@ -48,7 +48,7 @@ Wand of secrets
 # C
 15 Potion of superior healing
 7 Spell scroll ([spells -> 4])
-5 Ammunition, +2
+5 +2 Ammunition ([equipment -> ammunition])
 5 Potion of clairvoyance
 5 Potion of diminuition
 5 Potion of gaseous form
@@ -81,7 +81,7 @@ Sending stones
 10 Potion of speed
 10 Spell scroll ([spells -> 6])
 7 Spell scroll ([spells -> 7])
-5 Ammunition, +3
+5 +3 Ammunition ([equipment -> ammunition])
 5 Oil of sharpness
 5 Potion of flying
 5 Potion of cloud giant strength
@@ -103,8 +103,8 @@ Portable hole
 2 Sovereign glue
 
 # F
-15 Weapon, +1
-3 Shield, +1
+15 +1 Weapon ([equipment -> weapon])
+3 +1 Shield
 3 Sentinel shield
 2 Amulet of proof against detection and location
 2 Boots of elvenkind
@@ -118,14 +118,14 @@ Portable hole
 2 Hat of disguise
 2 Javelin of lightning
 2 Pearl of power
-2 Rod of the pact keeper, +1
+2 +1 Rod of the pact keeper
 2 Slippers of spider climbing
 2 Staff of the adder
 2 Staff of the python
 2 Sword of vengeance
 2 Trident of fish command
 2 Wand of magic missiles
-2 Wand of the war mage, +1
+2 +1 Wand of the war mage
 2 Wand of web
 2 Weapon of warning
 Adamantine armor (chain mail)
@@ -164,8 +164,8 @@ Wind fan
 Winged boots
 
 # G
-11 Weapon, +2
-4 Armor, +1 ([-> G armor type])
+11 +2 Weapon ([equipment -> weapon])
+4 +1 Armor ([-> G armor type])
 4 Armor of resistance ([-> G armor type])
 3 Figurine of wondrous power ([-> G figurine of wondrous power])
 Adamantine armor (breastplate)
@@ -222,9 +222,8 @@ Ring of the ram
 Ring of X-ray vision
 Robe of eyes
 Rod of rulership
-Rod of the pact keeper, +2
++2 Rod of the pact keeper
 Rope of entanglement
-Shield, +2
 Shield of missile attraction
 Staff of charming
 Staff of healing
@@ -243,7 +242,7 @@ Wand of fear
 Wand of fireballs
 Wand of lightning bolts
 Wand of paralysis
-Wand of the war mage, +2
++2 Wand of the war mage
 Wand of wonder
 Wings of flying
 
@@ -267,7 +266,7 @@ silver
 brass
 
 # H
-10 Weapon, +3
+10 +3 Weapon ([equipment -> weapon])
 2 Amulet of the planes
 2 Carpet of flying
 2 Crystal ball (very rare version)
@@ -279,9 +278,9 @@ brass
 2 Rod of absorption
 2 Rod of alertness
 2 Rod of security
-2 Rod of the pact keeper, +3
+2 +3 Rod of the pact keeper
 2 Scimitar of speed
-2 Shield, +3
+2 +3 Shield
 2 Staff of fire
 2 Staff of frost
 2 Staff of power
@@ -289,14 +288,14 @@ brass
 2 Staff of thunder and lightning
 2 Sword of sharpness
 2 Wand of polymorph
-2 Wand of the war mage, +3
+2 +3 Wand of the war mage
 Adamantine armor (half plate)
 Adamantine armor (plate)
 Animated shield
 2 Belt of [-> H belts] strength
-3 Armor, +1 [-> H armor type]
+3 +1 Armor ([-> H armor type])
 3 Armor of resistance ([-> H armor type])
-4 Armor, +2 [-> H armor type]
+4 +2 Armor ([-> H armor type])
 Candle of invocation
 Cloak of arachnida
 Dancing sword
@@ -352,10 +351,10 @@ stone giant
 3 Staff of the magi
 3 Vorpal sword
 2 Belt of cloud giant strength
-4 Armor, +1 [-> I armor type]
+4 +1 Armor ([-> I armor type])
 2 Armor of resistance ([-> I armor type])
-6 Armor, +2 [-> H armor type]
-8 Armor, +3 [-> G armor type]
+6 +2 Armor ([-> H armor type])
+8 +3 Armor ([-> G armor type])
 2 Cloak of invisibility
 2 Crystal Ball of [-> I ball type]
 2 Iron flask
@@ -392,9 +391,9 @@ half plate
 plate
 
 # I awesome armor
-2 Armor, +2 [-> I armor type]
-3 Armor, +3 [-> H armor type]
-1 Armor, +3 [-> I armor type]
+2 +2 Armor ([-> I armor type])
+3 +3 Armor ([-> H armor type])
+1 +3 Armor ([-> I armor type])
 
 # I ball type
 mind reading
