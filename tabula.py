@@ -222,12 +222,6 @@ def tokenize(str):
 	return tokens
 
 if __name__ == '__main__':
-	# TableGroup("treasure")
-	# for table in treasure.tables:
-	# 	print table
-	# print tableGroups["treasure"].rollOnTable("CR 0 Hoard")
-	# print treasure.getTable("10 gp Gemstone").getRandom()
-	# print tokenize("6d6*100 cp, 3d6*100 sp, 2d6*10 gp, and [-> CR 0 Treasure Hoard Items]")
 	pass
 
 if len(sys.argv) >= 3 and len (sys.argv) <= 4:
@@ -239,6 +233,6 @@ if len(sys.argv) >= 3 and len (sys.argv) <= 4:
 
 	TableGroup(group)
 	for i in range(0, quantity):
-		print tableGroups[group].rollOnTable(table) + "\n"
+		print tableGroups[group].rollOnTable(table)
 else:
 	print "Usage: {0} tablegroup 'Table name' [quantity]".format(sys.argv[0])
