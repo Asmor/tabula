@@ -50,8 +50,9 @@ class Table(object):
 					weight = 1;
 				weight = int(weight)
 				tokens = tokenize(matches.group(2))
+				entry = Entry(tokens)
 				for i in range(0, weight):
-					self.entries.append(Entry(tokens))
+					self.entries.append(entry)
 
 	def executeImports(self):
 		for tableName in self.imports:
