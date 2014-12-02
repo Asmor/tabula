@@ -230,10 +230,15 @@ if __name__ == '__main__':
 	# print tokenize("6d6*100 cp, 3d6*100 sp, 2d6*10 gp, and [-> CR 0 Treasure Hoard Items]")
 	pass
 
-if len(sys.argv) == 3:
+if len(sys.argv) >= 3 and len (sys.argv) <= 4:
 	group = sys.argv[1]
 	table = sys.argv[2]
+	quantity = 1
+	if len(sys.argv) == 4:
+		quantity = int(sys.argv[3])
+
 	TableGroup(group)
-	print tableGroups[group].rollOnTable(table)
+	for i in range(0, quantity):
+		print tableGroups[group].rollOnTable(table) + "\n"
 else:
-	print "Usage: {0} tablegroup 'Table name'".format(sys.argv[0])
+	print "Usage: {0} tablegroup 'Table name' [quantity]".format(sys.argv[0])
