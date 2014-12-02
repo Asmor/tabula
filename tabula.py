@@ -22,7 +22,11 @@ class TableGroup(object):
 	def rollOnTable(self, name):
 		if name.lower() in self.tables:
 			raw = str(self.getTable(name).getRandom())
-			return re.sub(" +", " ", raw)
+			# Remove extra blank lines
+			raw = re.sub(" +", " ", raw)
+			# Insert commas
+			raw = re.sub("(\\d)(?=(?:\\d{3})+\\b)", "\\1,", raw)
+			return raw
 		else:
 			return "[No table named '{0}' in {1}]".format(name, self.name)
 
