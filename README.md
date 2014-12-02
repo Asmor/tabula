@@ -12,11 +12,19 @@ Pass the name of the table group and the table as arguments to execute it, i.e.
 
 	./tabula.py table-group "table name"
 
+You can also specify a quantity to make multiple rolls
+
+	./tabula.py table-group "table name" qty
+
 Try it out!
 -----------
-tabula comes with tables for generating random treasure for D&D 5th edition. Check the repo out and run:
+tabula comes with tables for generating random treasure for D&D 5th edition. This will give you a treasure hoard suitable for a CR 5 monster
 
-	./tabula.py treasure 'cr 0 hoard'
+	./tabula.py treasure 'cr 5 hoard'
+
+And this will give you 10 random items from Magic Item table A
+
+	./tabula.py magic-items a 10
 
 Formatting
 ==========
