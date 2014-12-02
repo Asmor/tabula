@@ -61,7 +61,6 @@
 # 30
 [-> CR 30 Hoard]
 
-
 # CR 0 Hoard
 6d6x100 cp, 3d6x100 sp, 2d6x10 gp and [-> CR 0 Hoard Items]
 # CR 1 Hoard
