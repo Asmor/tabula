@@ -1,0 +1,47 @@
+# Motivation
+Afraid of [->Fear]
+Ashamed of its [->shame]
+Wants revenge for [->revenge]
+Desires [->desire]
+Hates [->hate]
+
+# desire
+wealth
+power
+love
+
+# fear
+dying
+[->race]
+losing its [->loss]
+
+# hate
+[->race]
+religion
+nobility
+peasantry
+merchants
+
+# loss
+home
+love
+people
+
+# Shame
+race
+social class
+upbringing
+nation
+religion
+failure
+
+# Revenge
+perceived slight 
+
+
+# Race
+Humans
+Orcs
+Elves
+Dwarves
+Dark elves
